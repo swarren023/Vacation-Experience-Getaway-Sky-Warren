@@ -8,7 +8,7 @@ body, header, h1, h2, p, section {
 
 /* Set background color for the whole page */
 body {
-    background-color: #f9f9f9;
+    background-color: #031a10;
     font-family: monospace, serif;
     text-align: left;
 }
@@ -73,4 +73,5 @@ ol {
     font-size: 10px;
     color:rgb(255, 230, 0);
     line-height: 2;
+
 }
